@@ -3,8 +3,8 @@
 #### I. Cyclistic bike share company
 - project [description](https://github.com/howhowcarabao/Cyclistic-bike-share_analysis/blob/main/README.md)
 - [Code](https://github.com/howhowcarabao/Cyclistic-bike-share_analysis/blob/main/REPORT.Rmd) for analysis
-- Report: Rmardown_PDF_output: [view](https://github.com/howhowcarabao/Cyclistic-bike-share_analysis/blob/main/REPORT.pdf)
-- Report:Rmardown_html_report: [view](https://rpubs.com/vacarlos/Cyclistic)
+- Report and recommendations: Rmarkdown_PDF_output: [view](https://github.com/howhowcarabao/Cyclistic-bike-share_analysis/blob/main/REPORT.pdf)
+- Report and recommendations: Rmarkdown_html_report: [view](https://rpubs.com/vacarlos/Cyclistic)
 
 #### II. The Standford Open Policing Project
 - project [description](https://github.com/howhowcarabao/Open-Policing-Project/blob/main/README.md)
